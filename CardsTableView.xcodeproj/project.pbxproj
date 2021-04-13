@@ -15,6 +15,7 @@
 		B63A19672625C1AA00D306CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B63A19652625C1AA00D306CE /* LaunchScreen.storyboard */; };
 		B63A19722625C1AA00D306CE /* CardsTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63A19712625C1AA00D306CE /* CardsTableViewTests.swift */; };
 		B63A197D2625C1AA00D306CE /* CardsTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63A197C2625C1AA00D306CE /* CardsTableViewUITests.swift */; };
+		B63A198B2625C1BE00D306CE /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63A198A2625C1BE00D306CE /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B63A19782625C1AA00D306CE /* CardsTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CardsTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B63A197C2625C1AA00D306CE /* CardsTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsTableViewUITests.swift; sourceTree = "<group>"; };
 		B63A197E2625C1AA00D306CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B63A198A2625C1BE00D306CE /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B63A195A2625C1A500D306CE /* AppDelegate.swift */,
 				B63A195C2625C1A500D306CE /* SceneDelegate.swift */,
 				B63A195E2625C1A500D306CE /* ViewController.swift */,
+				B63A198A2625C1BE00D306CE /* Cards.swift */,
 				B63A19602625C1A500D306CE /* Main.storyboard */,
 				B63A19632625C1AA00D306CE /* Assets.xcassets */,
 				B63A19652625C1AA00D306CE /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				B63A195F2625C1A500D306CE /* ViewController.swift in Sources */,
 				B63A195B2625C1A500D306CE /* AppDelegate.swift in Sources */,
 				B63A195D2625C1A500D306CE /* SceneDelegate.swift in Sources */,
+				B63A198B2625C1BE00D306CE /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
